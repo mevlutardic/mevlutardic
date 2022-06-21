@@ -10,7 +10,7 @@
 -
 ## 📊 My Github Stats
 
-<img align = "center" src = "https://github-readme-stats.vercel.app/api?username=mevlutardic&theme=algolia&show_icons=true" width = "700" height = "350" />
+<img align = "center" src = "https://github-readme-stats.vercel.app/api?username=mevlutardic&theme=algolia&show_icons=true&align="center"" width = "700" height = "220" />
 
 
 
