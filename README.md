@@ -9,5 +9,10 @@
 - ⚡ Fun fact: ...
 -
 ## 📊 My Github Stats
+
+<img align = "center" src = "https://github-readme-stats.vercel.app/api?username=mevlutardic&theme=algolia&show_icons=true" width = "700" height = "350" />
+
+
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mevlutardic&theme=algolia&show_icons=true&align="center")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engineerbekir&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
