@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on Imaga Procsessing,Artifical Intelligence,OpenCV
+- 🔭 I’m currently working on Image Procsessing,Artifical Intelligence,OpenCV
 - 🌱 I’m currently learning QtDesigner, AR, Deep Learning, OpenGL
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: www.linkedin.com/in/mevlüt-ardiç-446a76162, mevlutardic.1@hotmail.com
